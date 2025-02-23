@@ -1,0 +1,18 @@
+{
+    "home": {
+      "title": "Bienvenido a Nuestro Sitio",
+      "subtitle": "Lo mejor de la web",
+      "body": "Esta es la página principal donde encontrarás lo que buscas."
+    },
+    "about": {
+      "title": "Acerca de Nosotros",
+      "subtitle": "Nuestra Historia",
+      "body": "Somos una empresa dedicada a ofrecer soluciones innovadoras..."
+    },
+    "contact": {
+      "title": "Contacto",
+      "subtitle": "Ponte en contacto con nosotros",
+      "body": "Envíanos tus consultas y te responderemos a la brevedad."
+    }
+  }
+  

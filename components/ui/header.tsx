@@ -26,7 +26,7 @@ export default function Header() {
                 href="/signup"
                 className="btn-sm bg-gray-800 text-gray-200 shadow hover:bg-gray-900"
               >
-                Register
+                Registeraaa
               </Link>
             </li>
           </ul>
