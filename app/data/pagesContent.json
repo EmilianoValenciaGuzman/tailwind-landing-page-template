@@ -9,9 +9,9 @@
       "subtitle": "Nuestra Historia",
       "body": "Somos una empresa dedicada a ofrecer soluciones innovadoras..."
     },
-    "contact": {
-      "title": "Contacto",
-      "subtitle": "Ponte en contacto con nosotros",
+    "prueba": {
+      "title": "Proyecto prueba",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia fermentum tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus pharetra scelerisque magna non blandit. Aliquam finibus massa est, id posuere diam auctor et.",
       "body": "Envíanos tus consultas y te responderemos a la brevedad."
     }
   }
